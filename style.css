@@ -1,8 +1,8 @@
-@*-face {
-  *-family: face;
+@font-face {
+  font-family: face;
   src: url(fonts/WorkSans-VariableFont_wght.ttf);
 }
 h1 {
   /*font-family: "face";*/
-  color: "rgba(100,100,50,.5)";
+  color: green;
 }
