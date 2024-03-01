@@ -1,0 +1,7 @@
+@font-face {
+  font-family: face;
+  src: url(fonts/WorkSans-VariableFont_wght.ttf);
+}
+h1 {
+  font-family: "face";
+}
